@@ -1,3 +1,5 @@
+> **Status: archived (Nov 2026).** Learning React through small projects. Not maintained; kept for reference.
+
 # React
  
 Few Practiced React Applications
